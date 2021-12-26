@@ -1,16 +1,19 @@
-### Hi there 👋
+### 你好，我是奋斗的苦瓜
 
-<!--
-**chenmanjia/chenmanjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=kugua.github.io.README)
 
-Here are some ideas to get you started:
+- 🥑 :  知乎 : 
+- 🍉: 微信公众号 : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 正在分享的方向
+
+**:pushpin: 导航**
+1. **编译**
+- 编译链接
+- cmake
+- 常用工具介绍
+
+2. **android系统音频**
+
+3. **音频开发**
+
